@@ -1,6 +1,6 @@
 # Ignore docs files
 /.sass-cache/
-/_site/
+# /_site/
 /docs/.jekyll-cache/
 /.ruby-version
 
