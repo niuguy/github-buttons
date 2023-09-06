@@ -1,6 +1,7 @@
 title:          "Unofficial GitHub Buttons"
 description:    "A set of static buttons with dynamic watch and fork counts for any repo hosted on GitHub."
 url:            "https://ghbtns.com"
+destination:    ./_site
 
 # Social
 author:
