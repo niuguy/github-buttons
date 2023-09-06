@@ -50,7 +50,7 @@
   // Constants
   const LABEL_SUFFIX = 'on GitHub';
   const GITHUB_URL = 'https://github.com/';
-  const API_URL = 'https://api.github.com/';
+  const API_URL = 'https://github-api-proxy.ofeng.workers.dev/';
   const REPO_URL = `${GITHUB_URL + user}/${repo}`;
   const USER_REPO = `${user}/${repo}`;
 
